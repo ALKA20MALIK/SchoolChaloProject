@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolChalo", "SchoolChalo\SchoolChalo.csproj", "{8BBF062B-67AA-4796-82DD-851B0C275793}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolChalo.Tests", "SchoolChalo.Tests\SchoolChalo.Tests.csproj", "{6CED2067-081D-42A9-A1BF-B54024C3BE24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BBF062B-67AA-4796-82DD-851B0C275793}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BBF062B-67AA-4796-82DD-851B0C275793}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BBF062B-67AA-4796-82DD-851B0C275793}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BBF062B-67AA-4796-82DD-851B0C275793}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CED2067-081D-42A9-A1BF-B54024C3BE24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CED2067-081D-42A9-A1BF-B54024C3BE24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CED2067-081D-42A9-A1BF-B54024C3BE24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CED2067-081D-42A9-A1BF-B54024C3BE24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
