@@ -11,7 +11,7 @@ namespace SchoolChalo.Controllers
         // GET: Login
         public string CandidateLogin()
         {
-            return "Hello Alka Candidate";
+            return "Hello Alka1 Candidate";
         }
     }
 }
